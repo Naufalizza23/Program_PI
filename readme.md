@@ -1,0 +1,1 @@
+Link untuk Dataset: https://www.kaggle.com/datasets/rahmi21/rice-datasets
